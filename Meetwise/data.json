@@ -1,0 +1,28 @@
+
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Demo User",
+      "email": "demo@example.com",
+      "password": "password123",
+      "meetings": [
+        {
+          "id": "m1",
+          "title": "Weekly Team Meeting",
+          "date": "2025-05-25",
+          "time": "10:00",
+          "description": "Discuss project progress and upcoming tasks"
+        },
+        {
+          "id": "m2",
+          "title": "Client Call",
+          "date": "2025-05-26",
+          "time": "14:30",
+          "description": "Product demo with potential client"
+        }
+      ]
+    }
+  ],
+  "currentUser": null
+}
